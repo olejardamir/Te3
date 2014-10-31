@@ -1,0 +1,48 @@
+58, 10117 Berlin, Germany bDIW Berlin Graduate Center cFree University of Berlin and IZA, Bonn Abstract Despite numerous studies on skill development, we know little about the causal effects of music training on cognitive and non-cognitive skills.
+We investigate the ef- fect of long-term music training by restricting the treatment group to those who have received music lesson outside of school at least from age 8 to 17.
+Dif- ferences by socio-economic status are small.
+Our estimates on the effects of sports are consistent with previous findings.
+Moreover, we take into account adolescents sec- ondary school type as well as their probability to give up music before age 17, which we can predict within a subsample.
+Our results are also robust to reverse causality and the existence of partly treated individuals in the control group.
+This makes our results more generalizable than the experimental work which has been carried out so far.
+Discussing these mechanisms allows us to develop the hypotheses that will guide our empirical estimations.
+The ex- ecutive function represents judgment and problem-solving capacities, which are particularly malleable during childhood and correlated with IQ.
+Musical performance in front of an audience allows the musician to verify whether or not she was able to interpret the piece correctly.
+Learning a musi- cal instrument is also likely to send a positive signal to school teachers and potential employ- ers (Spence, 1973).
+Children learning a musical instrument often come from families in which parents intervene strongly into their childrens schedules and choices of free-time activities (Lareau, 2011).
+3According to Rivera (2011), in addition to being perceived as having superior social skills, job candidates who are involved in extracurricular activities are considered by potential employers to be more interesting than can- didates without outside interests.
+Contrary to the previously discussed external signal, which serves as an indicator of higher skills to other people, playing a musical instrument signals affiliation to a particular social group and thereby raises the well-being of the individual him- or herself.
+Several studies show the benefits of athletic participation during youth (Barron et al., 7 2000; Felfe et al., 2011; Pfeifer and Cornelissen, 2010; Stevenson, 2010).
+In particular, we are able to measure the parents socio-economic background, personality, involvement in the childs school success, leisure time use as well as taste for the arts.
+In particular, we will compare the effects of music training to the effects of playing theatre or dancing at least weekly.
+For our study, conscientiousness, openness, and agreeableness three dimensions of the Big Five personality traits (McCrae and Costa, 1999; Lang et al., 2011) seem particularly interesting.
+Moreover, our hypotheses suggest that practicing a musical instrument may affect perceived control.
+4About 60 percent of our sample entered the data after age 5 of the child.
+Non- random selection into the treatment takes place at two stages.
+Therefore, our main specification takes into account a large number of parental background characteristics, which were measured when the adolescent was still young.
+According to recommendations from the statistics literature (Stuart, 2010), we include these insignificant coefficients in the selection model, as the aim is not to find the best model explaining the treat- ment but to balance observable (and if possible unobservable) characteristics in the treatment and control groups as much as possible.
+For them, we measure parental background characteristics in the year of entry into the data.
+13 After matching, we can check whether the covariates are balanced between the treatment and control groups.
+First, it allows us to use a large number of control variables even with a limited sample size, given that these control variables are sum- marized in the propensity score (Huber et al., 2013).
+Differences are estimated applying propensity score matching to control for a large number of observed individual and family characteristics.
+Column (1) represents the baseline specification.
+(2011).
+In column (6), we investigate the outcome differences for individuals who play theater or dance at least weekly.
+Third, we consider in- dividuals as treated if they learned a musical instrument at least from age 8 to 17.
+24 References Almlund, M., Duckworth, A. L., Heckman, J. J., Kautz, T., 2011.
+409421.
+Greenwood Press, pp.
+A microeconometric study of theatre demand.
+Short assessment of the big five: robust across survey methods except telephone interviewing.
+University of California Press.
+Research in Social Stratification and Mobility 29 (1), 71 90.
+Psychological Science 15 (8), 511514.
+Developmental Psychology 49 (2), 353364.
+Spence, M., 1973.
+Essen, pp.
+Todd, P. E., Wolpin, K. I., 2003.
+Are you lazy?
+Do you value artistic experiences?
+5 For items and measurement, please refer to Table A.6.
+29 Figure A.1 Common support graph (for main specification with main sample) 0.0 0.2 0.4 0.6 0.8 Propensity Score Untreated Treated: On support Treated: Off support Table A.9 Common support Main sample Cog.
+Source: SOEPv29 (2001-2012), own calculations.

@@ -1,0 +1,48 @@
+Introduction Researchers studying mathematics pedagogy have identified numerous drawbacks to the traditional instructional methods and curriculum employed to teach students mathematics in the United States, including students generally exhibiting low mathematics achievement while often developing mathematics-related anxiety (Furner & Berman, 2005; Scott, 2005; Vinner, 1997).
+Mathematical concepts such as numerical relations, proportions, integers, logarithms, arithmetical operations, trigonometry, and geometry are related to musical elements such as melody, rhythm, intervals, scales, harmony, and tuning (Beer, 1998; Harkleroad, 2006).
+Literature Review Mathematics Dispositions and Performance The emotional experience of mathematics learners during education is a crucial element of their learning, and a students ability to focus on learning can be motivated by positive emotions (Sylwester, 1995).
+Music can assist students in developing an understanding of mathematics concepts by encouraging them to have diverse cognitive and affective experiences (Selwyn, 1993).
+Learning mathematics associated with music can help students complete the transferring of mathematical knowledge from other content areas (Johnson & Edelson, 2003).
+The overarching goal of the current study was to increase understanding of effects from music-mathematics integrated instruction and curriculum upon elementary students mathematics dispositions.
+The group randomly selected to serve as the music intervention group consisted of 15 boys and 13 girls, with ethnicities of 19 Asians, 2 African Americans, 2 Caucasians, and 5 Hispanics.
+Specifically, teacher A had 11 years of 3rd- grade teaching experience while teacher B had 9 years of 3rd-grade teaching experience.
+These professional development workshops were led by college professors and had the support of the authors of this paper.
+As Shadish and his colleagues (2002) showed, a randomized experiment is the preferred design for obtaining unbiased precision estimates of the effects from an intervention.
+The random assignment in the current study helped to neutralize any differences between the two groups, reducing the potential for alternative causes confounding the impacts assessed from exposure to the music-mathematics intervention.
+The aim of the pretest was to investigate if the two groups initially differed from each other, and to identify whether there was any pretest difference which may lead a selection bias (Shadish et al., 2002).
+The two chief music activity themes that the music-group teacher incorporated into her mathematics lessons were music composition and music playing.
+Instrument and Data Collection The mathematics disposition survey used in this study was adapted from the Fennema- Sherman Mathematics Attitude Scales (Fennema & Sherman, 1976) but because Fennema and Shermans test was designed for high school students, the current study developed a modified version of this attitude test through consultation with elementary teachers and experts in assessment in this area.
+Thirdly, the teacher walked around the classroom and offered assistant to any individual students who appeared to need additional help understanding the survey item.
+Prior to the intervention, a t-test analysis indicated that the participating students in the two groups did not significantly differ in their mathematics dispositions, and that therefore subsequent comparisons of the groups would be based on a similar starting point.
+A practical significance test using Cohens d determined there were small effect sizes between the music group and non-music group during pretest comparisons, but within the posttest comparisons there were large effect sizes found between music group and non-music group.
+Specifically: (1) For the disposition theme of confidence, the results of the paired t-tests showed that there were statistically significant improvements from pretest to posttest (p<0.001, t=3.87).
+6 p & t values <0.001 (3.87) Cohen's d 0.94 Attitude Mean SD 2.960.63 4.130.78 Math scares me sometimes.
+6 p & t values 0.016 (4.45) Cohen's d 1.88 Success Mean SD 3.920.74 4.660.52 I feel proud to be the best student in math.
+6 p & t value <0.001 (6.45) Cohen's d 0.744 Belief Mean SD 2.830.70 3.850.46 I need lots of natural ability to learn math.
+The music-mathematics integrated instructional approach in the current study is distinguished from many previous intervention studies in that they focused only on the effects of music listening or music instrument learning on students mathematics disposition.
+Before proceeding to an articulation of conclusions, some limitations to this study should be noted.
+To reduce the Hawthorne effect, 14 music-mathematics lessons were provided to the music group students and thus most students may become familiar with this instructional approach after the first few lessons.
+Mathematics learners can discover and understand mathematical ideas by experiencing different kinds of activities with connections made within and outside of mathematics.
+The results of the current study provide some guidance for the potential scope of future educational research progressing this line of inquiry.
+Moreover, there is a need for research studying professional development for inservice teachers that will support 13 An, Tillman, Boren, & Wang them in developing mathematics pedagogy that makes meaningful connections between mathematics and other subject areas.
+An, S. A., Kulm, G. O., & Ma, T. (2008).
+Unpublished doctoral dissertation, Indiana University of Pennsylvania, PA.
+Beilock, S. L., Gunderson, E. A., Ramirez, G., & Levine, S. C. (2010).
+Bronson, M. B. (2000).
+International Journal of Mathematical Education in Science & Technology, 37(7), 757.
+Ellis, A. K., & Fouts, J. T. (2001).
+Confidence in their ability to do mathematics: The need to eradicate math anxiety so our future students can successfully compete in a high-tech globally competitive world.
+Gamwell, P. (2005).
+The Anti-Anxiety Curriculum: Combating Math Anxiety in the Classroom.
+Journal for Research in Mathematics Education, 31, 362379.
+The paper airplane contest: Fabricating for flight and mathematical problem solving.
+Measuring attitudes toward reading: A new tool for teachers.
+(2000).
+(2006).
+105-118).
+Current Science-Bangalore, 93(11), 1481.
+Selwyn, D. (1993).
+Fostering Elementary Students Mathematics Disposition 16 Early Childhood Education Journal,29, 179-184.
+Roeper review, 29(2), 132-139.
+2.0 Multiplication basic fact Singing Handbell playing Lesson 3 (week 3) SDAP 1.0 Statistical table Statistical graphs Music composition (Melody) Handbell playing Analysis of musical works Lesson 4 (week 3) SDAP 1.1 Concept of probability Music composition (Chords) Handbell playing Lesson 5 (week 4) NS 2.0 Number line Piano keyboard playing (Intervals) Piano keyboard investigation Lesson 6 (week 4) MG 1.0 Measurement of time Music composition (Rhythm) Drums playing Analysis of musical works Lesson 7 (week 5) AF 2.2 Algebraic expressions Concept of variables Music composition (Rhythm) Drums playing Analysis of musical works Lesson 8 (week 5) SDAP 1.3 Bar graph & circle graph Pictograph Music composition (Music Form) Handbell playing Analysis of musical works Lesson 9 (week 6) AF 2.2 Function tables Music listening Analysis of musical works Lesson 10 (week 7) NS 2.0 Problem posing Music composition (Melody) Handbell playing Analysis of musical works Lesson 11 (week 7) MG 1.0 Perimeter Musical instrument designing Investigation of musical instruments Lesson 12 (week 8) NS 3.0 Equivalent fractions Handbell playing Drums playing Analysis of musical works Lesson 13 (week 8) AF 2.2 Algebraic expression Music composition (Harmony) Handbell playing Analysis of musical works Lesson 14 (week 9) MG 1.0 Area Musical instrument designing Investigation of musical instruments Fostering Elementary Students Mathematics Disposition 18 Note: The mathematics content foci were based on California State Standards Appendix B Sample Music-Mathematics Integrated Lesson Plan (Lesson 13) Designed by the teacher who volunteered to participate in the present study Academic Learning Goal Students will explore and learn how to compose their own music by creating their own color, number, and letter patterns.
+Students use their prior knowledge about patterns and find several patterns in a song with class together.

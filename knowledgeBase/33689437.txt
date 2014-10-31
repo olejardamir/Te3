@@ -1,0 +1,54 @@
+59 Annex A: PISA measures of student engagement .......................................................
+Researchers have recently used the term engagement to refer to the extent to which students identify with and value schooling outcomes, and participate in academic and non-academic school activities.
+The participation component of engagement is characterised by factors such as school and class attendance, being prepared for class, completing homework, attending lessons, and being involved in extra-curricular sports or hobby clubs.
+The term disengaged from school is used to characterise students who do not feel they belong at school and have withdrawn from school activities in a significant way.
+The results have important implications for teachers, school administrators and policy- makers, as they stress the importance of viewing engagement as a fundamental schooling outcome.
+Children who display behaviour problems or cognitive deficits during the early years of schooling are vulnerable, in the sense that without concerted and prolonged intervention their chances of succeeding at school or leading healthy and productive lives are diminished (Willms, 2002a).
+Many children who grow up in poor families, or have behaviour problems and cognitive difficulties during their primary school years, prove to be remarkably resilient.
+Johnson et al.
+Johnson et al.
+However, they did find that levels of participation were strongly associated with the mean grade-point average of the school.
+The analyses employ a multivariate, multilevel statistical model to estimate the correlations among these variables at both the student and school levels.
+The analyses therefore estimate the average relationship for all participating countries combined.
+In practice, this refers to students who were aged between 15 years and 3 (complete) months and 16 years and 2 (complete) months at the beginning of the assessment period and who were enrolled in an edu- cational institution, regardless of the grade level or type of institution and of whether they are full- time or part-time students.
+There are two issues concerning the validity of participation measure that warrant discussion.
+Students with scores of 3.0 or higher had scaled scores of 460 or higher.
+The first column of each table is the mean score on the measure, which is followed in the second column with the standard error of the mean.
+The standard error gives an indication of how accurately the outcome was measured for each country, which depends mainly on the sample size.
+There were four countries with averages above 30 per cent: Bel- gium (32 per cent), Japan (38 per cent), Korea (41 per cent) and Poland (41 per cent).
+Source: OECD PISA database, 2003.
+Source: OECD PISA database, 2003.
+Source: OECD PISA database, 2003.
+On average, across the OECD countries, about one in four students are classified as having a low sense of belonging, and about one in five students has very low participation.
+Family and school factors associated with student disaffection CHAPTER 4 37 OECD 2003 The analyses in this chapter use a regression technique called logistic regression.
+The odds associated with being foreign-born vary considerably among countries.
+Source: OECD PISA database, 2003.
+Source: OECD PISA database, 2003.
+In nearly every country, the effect was large and statisti- cally significant, indicating that a student with average family background characteristics tended to have higher achievement if he or she attended a school with high socio-economic levels.
+Use of informal assessment was derived from school principals reports on the frequency with which students were assessed using teacher-developed tests, teachers judgemental ratings, student portfolios and student assignments/projects/homework, and on how frequently assessment information was formally commu- CHAPTER 4 Student Engagement at School: A Sense of Belonging and Participation 44 OECD 2003 nicated to parents and the school principal.
+The student scores were aggregated to the school level, and scaled such that one unit on the scale repre- sents 10 percentile points, with higher scores indicating better student-teacher relations.
+However, the results for many countries are not very stable, as the number of schools sampled in each country is rather small for estimat- ing models with a large number of school variables.
+Therefore, the strategy is to use the full international Family and school factors associated with student disaffection CHAPTER 4 45 OECD 2003 data set to determine the effects associated with each of the policy variables, and then examine how coun- tries fare on the most relevant variables.
+For these factors, a one-point increase on the 10-point scale was associated with decreases in the odds, respectively, of 4 per cent, 5 per cent and 3 per cent.
+There are five OECD countries with relatively low scores on this measure, below 4.0: Greece, Italy, the Netherlands, Norway and Sweden.
+Source: OECD PISA database, 2003.
+10 8 6 4 2 0 In de x of st ud en t- te ac he r re la tio ns In de x of a ch ie ve m en t p re ss Ja pa n Sw itz er la nd Po la nd M ex ic o A us tr ia Lu xe m bo ur g U ni te d K in gd om C ze ch R ep ub lic Ic el an d Ir el an d G er m an y U ni te d St at es H un ga ry K or ea A us tr al ia Po rt ug al Be lg iu m D en m ar k N ew Z ea la nd Fr an ce C an ad a Fi nl an d Sp ai n N or w ay Sw ed en Ita ly G re ec e A lb an ia FY R M ac ed on ia Li ec ht en st ei n R us sia n Fe de ra tio n La tv ia T ha ila nd In do ne sia Bu lg ar ia Pe ru H on g K on g- C hi na Is ra el A rg en tin a Br az il C hi le N et he rl an ds 1 10 8 6 4 2 0 10 8 6 4 2 0 CHAPTER 4 Student Engagement at School: A Sense of Belonging and Participation 48 OECD 2003 Conclusion This chapter examined the relationships between student engagement and family and school factors.
+The discussion at the beginning of this report emphasised that student engagement begins early in a childs life.
+The results of this study suggest that there may be other processes, both in and out of school, that lead to student disaffection.
+Others may lack a sense of belonging mainly because of their perceived ability to make friends and be accepted among their peers.
+PISA can provide only a broad understanding of the nature of student engagement, how it varies among countries and schools and how it is related to family and school factors.
+Truancy reduction: Keeping students in schools.
+School characteristics related to student engagement.
+Washington DC: US Department of Justice, Office of Justice Programs, Office of Juvenile Justice and Delinquency Prevention.
+How do risk factors work together?
+New York: John Wiley and Sons.
+Education Policy Analysis, Paris.
+Power, C., Manor, O. and Fox, J. (1991).
+Adult life-styles and their precursors in the social behaviour of children and ado- lescents.
+Journal of Experimental Education 63(2): 12738.
+Voelkl, K. E. (1997).
+Identification with school.
+Maryland: University Press of America.
+Student sense of belonging is measured using the question: School is a place where: a I feel like an outsider (or left out of things) b I make friends easily c I feel like I belong d I feel awkward and out of place e Other students seem to like me f I feel lonely g I do not want to go to school h I often feel bored.
+The analysis also revealed that the six belonging items contributed almost equally to the first factor.1 Therefore, the measure of sense of belonging used in this report is based on a Rasch scaling of the first six items, and standardised to have a mean of 500 and a standard deviation of 100 across all participating OECD countries, similar to the measures of reading, mathematics and science per- formance used in PISA.
+In most countries, PISA data do not furnish estimates that are accurate enough to report findings for a particular school.

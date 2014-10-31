@@ -1,0 +1,49 @@
+Research has indicated that elementary general classroom teachers have traditionally played a role in the musical education of children and have had musical training as a part of their professional preparation since the early 19th century (Birge, 1988; Gray, 2000).
+The responsibility for the music education of elementary school children is assigned by administrators to either (a) the music specialists or (b) classroom teachers (Byo, 1999).
+Preservice and inservice elementary teachers, while pressured to meet many curricular requirements such as state content standards (Cooley, 2002; Frykholm, 1996), are potentially in a position to implement music activities in their classrooms.
+The focus remained on preservice elementary classroom teachers attitudes toward music; however, it did not measure change during the course of a semester of instruction.
+All students had participated in a Method Page 2 of 15RIME Online : September 2010 : Preservice Elementary Classroom Teachers A...
+9. understanding music in relation to history and culture (Music Educators National Conference, n.d.).
+After an initial review and analysis, 19 items representing four factors were identified for retention.
+Table 1 Varimax rotated factor loadings for final 17 music survey items Factor Item Comfort Benefits Curriculum I would feel comfortable teaching music concepts to my students .832 I would feel comfortable teaching music in relation to history and culture .783 I would feel comfortable teaching a music listening lesson to my students .779 I would feel comfortable teaching .773 Page 3 of 15RIME Online : September 2010 : Preservice Elementary Classroom Teachers A...
+Ninety-eight percent of the respondents (n = 559) who indicated their gender were female, 10 (1.7%) respondents were male, and five (0.9%) respondents did not identify their gender.
+Academic and Social Benefits of Music Education The means and standard deviations for the academic and social benefits subscale for the total sample are contained in Table 2. For all items, a lower value suggests a more positive or favorable attitude toward music and music education.
+The results indicate that the respondents felt that music instruction had positive academic and social benefits.
+Additionally, the means for the remaining two items was below the computational median of the scale (2.5).
+Further analysis revealed that each item was responded to favorably by a majority of the respondents.
+The results indicate that respondents with outside music instruction (M = 1.713, SD = .573) had stronger beliefs regarding the academic and social benefits of music instruction than respondents with no outside music instruction (M = 1.846, SD = .571).
+This is evidenced by a mean of 1.74 for the scale and means that are less than 2.00 on 4 of the 5 items.
+Further analysis revealed that each item was responded to favorably by a majority of the respondents.
+Tukey post hoc tests indicated that respondents who had music experience in K-12 (M = 1.571, SD = .450) had more favorable attitudes toward music and the curriculum than respondents with no in-school instruction (M = 1.834, SD = .482), K-5 instruction (M = 1.732, SD = .467), and K-8 instruction (M = 1.785, SD = .448).
+Further analysis revealed that each item was responded to favorably by a majority of the respondents.
+1.68 .88 84.0 I would feel comfortable singing with my students.
+1.51 .74 90.0 I would feel comfortable teaching music concepts to my students.
+1.70 .82 84.8 I would feel comfortable teaching music in relation to history and culture.
+http://www.stthomas.edu/rimeonline/vol8/Elementary_Classroom.htm The results of the factorial ANOVA also indicated a statistically significant difference among the levels of in-school music experience, F(3, 455) = 3.017, p = .030.
+Tukey post hoc tests indicated that respondents who had music instruction in K-12 (M = 1.425, SD = .534) were not more comfortable than respondents with music instruction in K-8 (M = 1.573, SD = .583).
+However, there was a significant difference in the comfort levels of respondents with instruction in K-12 and respondents with no in-school instruction (M = 1.761, SD = .695) or K-5 instruction (M = 1.690, SD = .677).
+The associated effect size estimate for the effect of in-school music instruction was equal to the value commonly used to identify a small effect.
+More specifically, a modified version of a survey instrument used by Lewis (1991) was administered to students as part of a senior-level elementary curriculum and instruction course containing a music methods component in the core block.
+The strongest agreements with Lewis (1991) findings were the positive attitudes toward statements regarding music participation and positive behaviors, academic achievement, and the social and cultural function of music.
+One may also speculate that more musical (curricular and extra- curricular) experiences lead to a higher comfort level toward leading selected musical activities.
+While the general finding of this comfort level attitude is positive, other research indicates that, whatever teaching music may connote for these preservice elementary classroom teachers, inservice elementary classroom teachers may, in fact, teach music infrequently (Colwell, 2008; Kujawski, 1996) and rarely teach musical skills or objectives (Giles & Frego, 2004; McCarthy-Malin, 1993).
+For example, the song, Fifty Nifty United States, might be used to reinforce social studies content without an associated musical objective.
+An example might involve studying patterns that are learned in core subject areas, such as mathematics or poetry, and their relation to tonal and/or rhythmic patterns within music.
+Through such experiences, music teacher candidates may become sensitized to ways in which they can support and enrich the elementary curriculum, and increase the perceived value of music in the core curriculum among elementary teachers.
+News: Press Release.
+Birge, E. B. (1988).
+Update: Applications of Research in Music Education 26, 33-41.
+Factors influencing attitudinal variation among classroom teachers in the teaching of music (Doctoral dissertation, University of Connecticut, 1960).
+Dissertation Abstracts International, 21(09), 2610.
+Update: Applications of Research in Music Education, 22,13-22.
+Engagement in musical activities by elementary classroom teachers in Specialist and Non-Specialist settings (Doctoral dissertation, Arizona State University, 1996).
+Urbana-Champaign, IL: Council for Research in Music Education.
+The effect of a music methods course on elementary education majors attitude toward teaching of music in the elementary school.
+Southeastern Journal of Music Education 3, 61-78.
+Journal of Research in Music Education, 51(4), 316-329 Rozmajzl, M., & Boyer-White, R. (1996).
+Music fundamentals, methods, and materials for the elementary classroom teacher (2nd ed.).
+Shrigley, R. L. (1974).
+Training teachers with little or no music background: Too little, too late?
+Paper presented at the Annual Meeting of the Southwest Educational Research Association, Dallas, TX.
+He holds the B.M and M.A.
+Thomas Devaney is an Associate Professor of Educational Research at Southeastern Louisiana University.

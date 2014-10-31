@@ -1,0 +1,48 @@
+2010 by Fernando Ferreira and Joel Waldfogel.
+We find that trade volumes are higher between countries that are geographically closer and between those that share a language.
+Music consumption in these 22 countries corresponded to over 98% of the recorded music market in 2003.10 The dataset includes 1,202,554 chart entries covering 68,283 songs and 23,377 artists.
+See http://ec.europa.eu/avpolicy/reg/tvwf/promotion/index_en.htm.
+9 Section II discusses the trade theory in more detail, in addition to the relevant empirical studies of trade in cultural goods.
+Despite widespread fears about American dominance, we find that music trade is roughly proportional to countries GDPs and that several smaller countries, such as Sweden, have a larger proportional share of trade than the United States.
+Trade in music bears some similarities to the trade of physical goods: shorter distances and sharing a common language promote higher trade volumes between countries, and those relationships have been relatively stable over the last 50 years.
+This increased home bias is robust to a number of specifications, from descriptive analysis to gravity equations.
+6 Overall, our estimates indicate that fears of cultural globalization seem misplaced, at least with respect to the music market.
+Section III describes the data used in the study.
+Theory Music, along with other reproducible cultural products such as movies, is a differentiated product that is produced subject to increasing returns.
+The starkest version of this model, adapting Anderson (1979) to our context, is (1) Y YY M jiij , where Mij is the sales of repertoire from i in country j, Yi is the GDP of country i, and Y is the world GDP.
+8 market, a firm can profitably maintain market share by larger investments in quality, maintaining market share even as market size increases.
+We describe these in turn.
+Cowan (2002), critical of nave anti-globalizationists, provides anecdotal evidence that globalization allows promotion of small-country cultures.
+For others, we have the weekly top 100.
+We also needed to determine the nationality of each artist.
+These rankings are based largely on sales, although they are also based on part on radio airplay.17 Although we could calculate national repertoire market shares based on, say, the share of US top-100 songs by artists from France, this approach is potentially misleading.
+Beginning in 2005, Billboard allowed paid digital downloads to enter the chart regardless of airplay.
+With the exception of Japan and England (with higher shares of music consumption than GDP shares) and Brazil (with lower share of music consumption than GDP share), all other countries in our sample have music consumption shares similar to GDP shares.
+We also run a regression of log IFPI on log GDP for the countries in our sample from 2003 to 2007 to gauge the relationship between both measures.
+14 IV.
+In the world sales figure, four repertoires from the US, UK, Japan, and Sweden are disproportionately large and lie above the proportionality line.
+Home Market Bias?
+The last column of Table 4 presents each countrys domestic share (e.g.
+23 Home bias has received substantial attention in the empirical trade literature.
+The bars for each repertoire are not of equal height.
+US repertoire makes up over 40 percent in 16 of 22 countries and over a quarter in all sample countries.
+Figure 5 provides a first pass at this question, with each countrys share of the world market since 1960.
+The UK share has fallen steadily since.
+Canadas ratio passed 1.5 in the late 1990s.
+However, the overall home share has rebounded steadily since the mid-1980s, reversing what might have appeared ominous in 1985.25 24 Figures 6 and 8 are normalized by GDP that also changes over time.
+The distance coefficient remains about -0.4, and the same-language coefficient remains roughly 1. Column 6 repeats the latter regression using the GDP-based import measure for the same time period, with very similar results.
+Distance thus matters less with music than with typical goods, which is what one might expect given the small transport costs of recorded music.
+While the three mechanisms have positive and generally significant coefficients in music equations, they enter the movie equations insignificantly (and with negative coefficients).34 However, the timing falsification test on column 7 casts a doubt on the potential causality of the results for MTV and Internet, while it still corroborates the effect of domestic radio quotas on the growing home bias.
+The levels of various estimated parameters change: distance parameters become substantially more negative, indicating that pairs of countries with no observable trade are more like to be distant from each other.
+Similarly, the home bias grows larger.
+Then, for example, if the spread of an indigenous American genre such as rap could reflect US dominance even if the rap sold were by, say, French or German artists.
+Sixth, we present evidence that this change occurs amid the adoption of the Internet, the regional splintering of MTV, and in four of our countries the growth of domestic radio airplay quotas.
+We cannot extrapolate the same conclusion for other cultural goods, such as movies and TV programs.
+Bernier, Ivan.
+Tai, Lionel Fontagne, and Thierry Mayer, Bilateral Trade of Cultural Goods, Review of World Economics (Weltwirtschaftliches Archiv), Springer, vol.
+Krugman, Paul, Scale Economies, Product Differentiation, and the Pattern of Trade, American Economic Review, 70 (1980), 950959.
+See data section for more details about the sample.
+Destination countries with data since 1970 included: Australia, Austria, Belgium, Brazil, Canada, Germany, Italy, Netherlands, Norway, Switzerland, United Kingdom, and United States.
+Figure 2. Music Trade Shares and GDP Shares, 2003-2007 Notes: Each dot shows each countrys average GDP share from 2003-2007 and the corresponding music trade share in the same period.
+Domestic Shares and Radio Quotas Notes: The green line in each panel shows the percentage of consumption of domestic music in the respective country.
+Genre Shares, 1960-2003 Notes: Gray lines show data for genre that have small world shares.

@@ -1,0 +1,48 @@
+Subjects (N = 77) were high school band students in a moderate-sized suburban school district in Midwestern United States.
+Although music self concept was found to be stable, an analysis of the change between pre treatment SEMA scores and post-treatment SEMA scores and change in compositional experience over the 12-week treatment period suggests that compositional experience had a significant affect on SEMA 1 (Self-Perception of Music Ability).
+Research exploring the intersection of creative music making, identity (including self-concept; Bandura, 1977), and motivation theory (Covington, 1984) is necessary.
+The nature of composition is one of natural discovery by the student (Sherman, 1971b).
+2. How stable is music self-concept over time?
+An example of an item found in Subscale 2 is: I feel good when my parents notice my progress in music.
+Another item asked students about their experience composing music.
+All participants were members of a single high school band, collectively rep resenting grades 9-12, not divided by ability.
+Each band member was then given SEMA (as a preliminary measure of music self concept) as well as the experimenter-devised questionnaire.
+Students were allowed to use the program Garageband, a music sequencing software application on an Apple iMac computer.
+The composition assignment was open-ended.
+Some students chose to collaborate with other students out of class.
+Forty-five minutes later, without being prompted, the three students who had not yet composed made their way back to the computers and the three students who had already had time to compose joined the band in the rehearsal.
+These correlations are reported in Table 1. The following significant correlations were found: (a) between sub-category SEMA 1 scores (Self-Perception of Music Ability) and grade level, compositional expe riences, school music activity, home music activity satisfaction of school music experi ence, and perception of personal contribution to learning in the school music setting; (b) between sub-category SEMA 2 scores (Support or Recognition from Others) and compositional experiences, home music activity, satisfaction of school music experi ence, and perception of personal contribution to learning in the school music setting; and (c) between sub-category SEMA 3 scores (Personal Interest or Desire) and grade level, compositional experiences, school music activity, home music activity, satisfac tion of school music experience, perception of personal contribution to learning in the school music setting, and the number of different listening styles the student reported.
+The highest cor relation (0.53, ^> < .001) was between compositional experiences and SEMA 1, SEMA .36** -.05 .22* ^Cj*** .35** .18 4^*** .36** .06 .18 -.05 .14 .14 .31** .11 .13 .17 -.01 .11 .28* .31** .03 ^4*** .24* .28* -.05 .17 .30** .36** .13 4q*** .14 14 Randies Compositional Experiences And Music Self-Concept 3, and SEMA Total scores.
+Table 3 Stability of Music Self-concept SEMA 1 .87*** SEMA 2 .73*** SEMA 3 .86*** SEMA Total .86*** *p < .05; *> < .01; ***p < .001 Note.
+A Pearson product-moment correlation would have to indicate a correlational value of 1 for music self-concept to be considered completely stable (no change occurring in SEMA scores over the treatment period of 12 weeks).
+Change in SEMA 1 scores over the 12-week time period were significantly related to change in composition experience.
+of Music Experience 3.09 2.00 -4.46 2.23 .53 .53 .28 .37 .62 .38 .10 -.37 .67 .45 .07 .43 .70 .49 .04 SEMA 2 Composition Experience Sat.
+of Music Experience 1.22 1.67 .39 .40 .22 .38 .47 .28 .06 SEMA 3 Composition Experience Perception of Contribution Home Music Activities Listening to Jazz 1.29 1.81 1.87 1.73 .53 .53 .28 .36 .59 .35 .07 .36 .64 .41 .06 .33 .67 .45 .04 SEMA Total Composition Experience Sat.
+of Music Experience Home Music Activities Listening to Rap Perception of Contribution 5.69 4.73 6.26 -7.63 5.27 .53 .53 .28 .45 .60 .36 .08 .37 .28 .63 .40 .04 .66 .43 .03 .32 .68 .46 .03 DISCUSSION Most of the literature regarding identity and the sub-category self-concept in music has been qualitative (Campbell, 1998; Campbell, 2007; Green, 2002; MacDonald, Hargreaves & Meill, 2002).
+It is important to mention that significant correlations were found between compositional experiences and music self-concept before any students were given time to compose music during their music class.
+Questionnaire responses indicated that many students were engaging in compositional experiences before this project started, and those students it was discovered had higher measures of music self-concept than their non-composing peers.
+REFERENCES Allsup, R. (2004).
+Developing motivation.
+In G. McPherson (Ed.), The child as musician: A handbook of musical development (pp.
+Psychological Review, 84, 191-215.
+C. X. E. Rodriguez (Ed.), Bridging the gap: Popular music and music education (pp.
+The relation between motivational patterns and achievement cognitions through the elementary school years.
+Campbell, P. S. (2007).
+Journal of Research in Music Education, 55(3), 220-236.
+Plow: The psychology of optimal experience.
+Green, L. (2004).
+What can music educators learn from popular musicians?
+224-240).
+Psychology of Music, 31(1), 37-51.
+McPherson, G., & McCormick, J. (2006).
+Unpublished manuscript.
+What is a good musician?: An analysis of student beliefs.
+Unpublished manuscript.
+Crocker's teacher paradigm and the challenge of alternative musics, unpublished paper, Canadian Music Educators National Conference, Research Council, University of British Columbia, 8-11 May.
+Roberts, B. (1991c).
+Who's in the mirror?
+Dissertations Abstracts International, 58, 3870A.
+Creativity and the condition of knowing in music part 2. Music Educators Journal, 58, 59-61.
+Yussen, S. R, & Kane, P. T. (1985).
+New York: Academic Press.
+Musical taste in adolescence.

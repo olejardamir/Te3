@@ -1,0 +1,48 @@
+This is of particular concern in New South Wales primary schools where generalist teachers are required to teach music as part of their overall curriculum.
+Yet, despite the many opportunities that exist for broad societal exposure to varied forms of music, particularly popular music, many students enter teacher education programs with a belief that they have limited abilities and content knowledge in this area.
+Studies by Sloboda (1999) and others in relation to music have also identified lack of confidence in performance as a critical factor in relation to participation and teaching.
+The Factors Affecting Self-Efficacy The factors affecting the levels of self-efficacy vary as the particular contexts or tasks vary.
+Additionally, the general level of self-efficacy of the individual, the level of self- regulation the individual brings to specific tasks, the task itself and the context in which the task is formed are important elements which affect self-efficacy.
+Social Persuasion Social persuasion is a means by which the appraisals or assessment of others can influence an individuals beliefs in their ability to succeed on specific tasks.
+Other Relevant Factors A further factor proposed by Bandura (1997) to affect the approach taken to a situation or task is the general self-efficacy of an individual.
+For example in studies related to academic self-efficacy, students were found to engage in tasks in which they feel competent and they tended to avoid those tasks in which they did not have the same levels of competency beliefs (Pajares, 2000b).
+Therefore, context is an important element in relation to the levels of self-efficacy an individual may bring to and maintain throughout tasks to be undertaken.
+The study of teachers perceptions of efficacy has developed along two conceptual lines.
+Initially it was conceptualised by the RAND researchers (Armor, Conroy-Oseguera, Cox, King, McDonnell, Pascal, Pauly & Zellman, 1976) to have an external and internal component which reflected teachers belief in the control they had in the reinforcement of their actions.
+Later researcher developed a second strand related to the concept of self-efficacy proposed by Banduras Social Cognitive Theory.
+The perceptions of individual abilities have been found to have an impact on teaching self-efficacy in both pre-service and in-service teachers (Bobis & Cusworth, 1994).
+In music education, similar results have been found.
+2002; Bartel & Cameron 2002).
+Additionally, whilst teachers efficacy beliefs have been shown to be relatively stable once they are formed, there is a need to look at possible changes that may occur over time.
+Do those inter-relationships change over time?
+The first component involved the gathering of quantitative data through the administration of a survey instrument in a pre- test/post-test pattern, involving three cohorts of subjects across a three year longitudinal design.
+It was decided to undertake the interviews to elucidate issues raised in the questionnaire data.
+A longitudinal research design was used, with data collected across two years from the two cohorts.
+The first cohort commenced their teacher education program in the year 2000 and the second in the year 2001.
+For each cohort, data was collected at the beginning and the end of their two-year sequence of compulsory methodology units (Table 1).
+Within each cohort, students were enrolled in either a Bachelor of Arts Diploma of Education degree or a Bachelor of Education (graduate entry) degree but all were undertaking the same core methodology units of study and participating in the same University classes and practicum program.
+At Time 1 a total sample of 243 subjects participated, 118 from Cohort 1 and 125 from Cohort 2. Over the two-year longitudinal period of the study, however, there was an attrition of some 64 participants resulting in 179 complete cases.
+Section 5: To investigate the possible influence of both positive and negative feelings about teaching a Feelings About Teaching scale adapted from the Spielberger STAI {State Trait Anxiety} Inventory was developed.
+The nature of this performance experience varied greatly from small informal performances to formal productions and individual presentations.
+Questionnaire Survey Results Overall, between the two cohorts there was a significant effect for time but no group effect and no group by time interactions.
+However, the levels of efficacy related to music teaching started just below the mid-point of the scale and only increased marginally over time.
+All negatively worded items were reversed for analysis.
+All negatively worded items were reversed for analysis.
+This component comprised open-ended questions and descriptive statements to illustrate the yes/no answers noted above.
+In order to gain further insight into the factors which influence music teaching efficacy a further series of regression analyses was undertaken to identify any significant relationships between Music Teaching Efficacy and the above identified significant background variables as well as the other survey scales (Table 10).
+Music Teaching Efficacy General Teaching Efficacy .006 Creative Arts Teaching Efficacy .000 Perceptions of Musical Abilities .000 Perceived musical skills and talents .013 KAN05133 AARE 2005 Conference Paper 13 Perceptions of the negative influence of musical background .020 Results revealed that Creative Arts and General Teaching Efficacy along with subjects perceptions of their general musical abilities and their skills and talents in music were predictors for Music Teaching Efficacy.
+This link was further supported through the information contained in the open-ended questions where students consistently identified a lack of knowledge of musical content including terminology and experience as a perceived need.
+These results support the findings of Temmerman (1997) who found a lack of confidence and perceived competence by general classroom teachers related to music education.
+Whilst many areas of background and experience were investigated only the perceptions of musical abilities, skills and talent in music and the negative influence of musical background had a direct relationship with the variable of Music Teaching Efficacy.
+They are more inclined to believe that achievement in music is due to inherent ability and not able to be changed or controlled.
+Psychological Review, 84, 191-215.
+Self-efficacy.
+Bandura, A. (1997).
+Self-efficacy: The exercise of control.
+KAN05133 AARE 2005 Conference Paper 16 Eisner, E. W. (1989) Current issues in art and design education: Art education today: A look at its past and an agenda for the future.
+Journal of Art and Design Education, 8, 153-166.
+Teacher efficacy: A construct validation.
+The Journal of Social Psychology, 137 (1), 79-88.
+Music: Where cognition and emotion meet.
+Tschannen-Moran, M., & Woolfolk Hoy, A. (2001).
+Journal of Personality and Social Psychology, 56, 407-415.
